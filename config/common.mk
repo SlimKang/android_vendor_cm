@@ -283,7 +283,7 @@ else
     CM_EXTRAVERSION :=
 endif
 
-kang_Version=4.400
+kang_Version=4.405
 CM_VERSION := LiteStalk-$(kang_Version)-$(shell date -u +%Y%m%d)$(CM_EXTRAVERSION)-$(CM_BUILD)
 
 
